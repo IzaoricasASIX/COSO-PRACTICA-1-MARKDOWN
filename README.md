@@ -220,3 +220,8 @@ HTML renderizado en GitHub:
 Párrafo 1.
 
 Párrafo 2.
+
+
+
+
+https://github.com/IzaoricasASIX/COSO-PRACTICA-1-MARKDOWN/blob/main/images/Image.jpg
