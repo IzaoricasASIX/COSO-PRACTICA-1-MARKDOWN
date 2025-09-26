@@ -225,3 +225,7 @@ Párrafo 2.
 
 
 https://github.com/IzaoricasASIX/COSO-PRACTICA-1-MARKDOWN/blob/main/images/Image.jpg
+
+
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2263823f-135d-4d0b-b389-71397c16882d" />
+
